@@ -7,11 +7,16 @@ An interactive dashboard visualizing sales, products, employees, and customers f
 
 ## 🧭 Dashboard Pages Overview
 
-![Image Alt Text](https://github.com/EsmerMemmedli/Store-Performance-Dashboard/blob/main/customers.png)
-
-![Image Alt Text](https://github.com/EsmerMemmedli/Store-Performance-Dashboard/blob/main/employees.png)
+![Image Alt Text](https://github.com/EsmerMemmedli/Store-Performance-Dashboard/blob/main/sales.png)
 
 ![Image Alt Text](https://github.com/EsmerMemmedli/Store-Performance-Dashboard/blob/main/product.png)
 
-![Image Alt Text](https://github.com/EsmerMemmedli/Store-Performance-Dashboard/blob/main/sales.png)
+![Image Alt Text](https://github.com/EsmerMemmedli/Store-Performance-Dashboard/blob/main/employees.png)
+
+![Image Alt Text](https://github.com/EsmerMemmedli/Store-Performance-Dashboard/blob/main/customers.png)
+
+
+
+
+
 
