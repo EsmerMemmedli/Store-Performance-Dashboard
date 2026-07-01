@@ -3,7 +3,7 @@ An interactive dashboard visualizing sales, products, employees, and customers f
 
 
 ## 🔗 Project link
-- <a href=https://github.com/EsmerMemmedli/Store-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.pbix>Project</a>
+- <a href=>Project</a>
 
 ## 🧭 Dashboard Pages Overview
 
